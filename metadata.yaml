@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '31403'
     url: http://www.gutenberg.org/2009/agents/31403
     wikipedia: https://en.wikipedia.org/wiki/J._M._Robertson
+covers:
+- cover_type: archival
+  image_path: 74445-h/images/cover.jpg
 creator:
   author:
     agent_name: Crossley, Anthony Crommelin
     gutenberg_agent_id: '57508'
     url: http://www.gutenberg.org/2009/agents/57508
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74445#The-Eton-College-hunt-b-A-short-history-of-beagling-at-Eton
 gutenberg_issued: '2024-09-19'
 gutenberg_type: Text
 identifiers:
